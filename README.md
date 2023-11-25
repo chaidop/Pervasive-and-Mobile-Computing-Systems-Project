@@ -1,4 +1,5 @@
-# Kinitos_kai_Diaxyos final project
+# Pervasive and Mobile Computing Systems final project
 
-In this project, we implemented the straightforward approach for on-demand code-based
+This is a project completed during my studies in University of Thessaly.
+In this project, my team and I implemented the straightforward approach for on-demand code-based
 data broadcast in C programming language.
